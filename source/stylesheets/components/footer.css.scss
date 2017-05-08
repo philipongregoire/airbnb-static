@@ -3,17 +3,16 @@
 #footer {
   background-color: #333333;
   padding: 50px;
+  .text-right {
+    color: white;
+    font-family: Open-sans, Verdana, sans-serif;
+    font-size: 17px;
+  }
+  .fa {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 20px;
+    opacity: 0.7;
+  }
 }
 
-#footer .text-right {
-  color: white;
-  font-family: Open-sans, Verdana, sans-serif;
-  font-size: 17px;
-}
-
-#footer .fa{
-  color: white;
-  font-size: 30px;
-  letter-spacing: 20px;
-  opacity: 0.7;
-}

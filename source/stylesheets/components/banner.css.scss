@@ -9,13 +9,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.banner h1 {
-  font-size: 50px;
-  margin-bottom: 15px;
-}
-.banner p {
-  font-size: 25px;
-  margin-bottom: 30px;
-  color: #C9CFC8;
+  h1 {
+    font-size: 50px;
+    margin-bottom: 15px;
+  }
+  p {
+    font-size: 25px;
+    margin-bottom: 30px;
+    color: $gray-lighter;
+  }
 }
