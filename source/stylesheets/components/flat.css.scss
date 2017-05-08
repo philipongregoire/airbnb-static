@@ -1,0 +1,33 @@
+.owner_book form {
+  margin: 20px 0;
+    margin-right: 0;
+    background: #F4F4F4;
+    padding: 15px;
+    border-radius: 3px;
+}
+
+#flat_description {
+  background-color: $gray-lighter;
+  margin-top: 20px;
+  h4 {
+    margin-top : 20px;
+    font-size: 20px;
+  }
+  p {
+    font-size: 14px;
+  }
+}
+#flat_data {
+  color: $gray;
+  p {
+    font-size : 12px;
+  }
+}
+
+.owner-description {
+  margin-top: 20px;
+  display: flex;
+  align-items: center;
+}
+
+

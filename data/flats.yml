@@ -1,0 +1,39 @@
+seb:
+  owner_name: Sebastien Saunier
+  picture: card-paris.jpg
+  owner_picture: seb.jpg
+  name: Seb's home
+  summary: Awesome place in Montmartre
+  city: Paris, France
+  wifi: true
+  animals: yes
+  party: forbidden
+  bedroom: 3
+  roomates: yes
+  bathroom: shower
+anne:
+  owner_name: Nanou Defou
+  picture: card-brussels.jpeg
+  owner_picture: anne.jpg
+  name: Romain's home
+  summary: Nice flat near the Bloody Louis
+  city: London, UK
+  wifi: false
+  animals: yes
+  party: allowed
+  bedroom: 1
+  roomates: no
+  bathroom: bath
+greg:
+  owner_name: Grégoire Philipon
+  picture: card-london.jpeg
+  owner_picture: greg.jpg
+  name: Ferme de fresne
+  summary: Nice place to live
+  city: London, UK
+  wifi: false
+  animals: no
+  party: forbidden
+  bedroom: 2
+  roomates: yes
+  bathroom: shower
