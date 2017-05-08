@@ -1,0 +1,31 @@
+/* Card design */
+/* Card design */
+/* line 4, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/card.css.scss */
+.card {
+  height: 200px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  background-size: cover !important;
+  color: white;
+  position: relative;
+  border-radius: 10px; }
+
+/* line 13, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/card.css.scss */
+.card-category {
+  position: absolute;
+  top: 7px;
+  left: 7px;
+  font-size: 20px; }
+
+/* line 20, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/card.css.scss */
+.card-description {
+  position: absolute;
+  bottom: 1px;
+  left: 7px;
+  font-size: 20px; }
+
+/* line 27, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/card.css.scss */
+.card-user {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  font-size: 20px; }

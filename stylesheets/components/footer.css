@@ -1,0 +1,19 @@
+/* Card design */
+/* Footer design */
+/* line 3, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/footer.css.scss */
+#footer {
+  background-color: #333333;
+  padding: 50px; }
+
+/* line 8, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/footer.css.scss */
+#footer .text-right {
+  color: white;
+  font-family: Open-sans, Verdana, sans-serif;
+  font-size: 17px; }
+
+/* line 14, /Users/gregoirephilipon/code/philipongregoire/airbnb-static/source/stylesheets/components/footer.css.scss */
+#footer .fa {
+  color: white;
+  font-size: 30px;
+  letter-spacing: 20px;
+  opacity: 0.7; }
